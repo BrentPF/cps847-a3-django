@@ -1,4 +1,4 @@
-## Create objects Question and Choice as per this tutorial [10%].
+## Create objects Question and Choice as per this tutorial [10%]
 
 ```python
 import datetime
@@ -23,7 +23,7 @@ class Choice(models.Model):
         return self.choice_text
 ```
 
-## Generate SQL statements needed to create these objects (original SQL script) [10%].
+## Generate SQL statements needed to create these objects (original SQL script) [10%]
 
 ```sql
 BEGIN;
